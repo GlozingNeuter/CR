@@ -74,3 +74,4 @@ Note:   Réalisation que nous avions ajouté des éléments de manière implicit
 Note: -   Travail d'équilibre entre plusieurs contraintes qui peut toujours être ajusté et période de fin d'année chargée par d'autres obligations. -   Profiter des forces de chacun pour identifier les problèmes (orthographe, sens, interprétations des données collectées)
 
 ---
+
